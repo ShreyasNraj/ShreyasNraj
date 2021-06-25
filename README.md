@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShreyasNraj
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
+- 🌱 I’m currently learning React.js, node.js.
+-
+- 📫 How to reach me - shreyasnraj143@gmail.com
 
 
 <!---
